@@ -1,5 +1,5 @@
 # comp-stochastics-2023
-Summarised lecture notes of the course in Computational Methods in Stochastics
+Summarised lecture notes of the course CS-E5795 Computational Methods in Stochastics taught at Aalto University. 
 
 ## Contents
 - **Random variables and distributions**
